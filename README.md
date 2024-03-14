@@ -22,3 +22,7 @@ that were used to create it (if unmodified, this repository). That link must be 
 How it is done is up to you, but it must be easily accessible to anyone using your product.
 
 Finally, it is **NOT OK** to distribute this program (sources or binaries) without providing this license notice _and_ the GPLv3.0 notice! 
+
+## A note on the code
+
+This code is incomplete. Expect future versions to completely break everything.
