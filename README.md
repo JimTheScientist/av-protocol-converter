@@ -26,3 +26,11 @@ Finally, it is **NOT OK** to distribute this program (sources or binaries) witho
 ## A note on the code
 
 This code is incomplete. Expect future versions to completely break everything.
+
+## Demo and Sample Program
+
+Sample program that utilizes this library:
+https://github.com/JimTheScientist/av-protocol-converter-gui
+
+Demo/Walkthrough:
+https://www.youtube.com/watch?v=fdF0uE9bMxk
